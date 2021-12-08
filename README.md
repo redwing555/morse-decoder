@@ -7,7 +7,9 @@
 > This algorithm using Ruby decode morse messages, its very fun you should try it ! 
 
 
-![screenshot](./morse_rb_-_morse-decoder_-_Visual_Studio_Code_2021-12-08_16-12-37_Trim__2__SparkVideo.gif)
+
+
+<a href="url"><img src="./morse_rb_-_morse-decoder_-_Visual_Studio_Code_2021-12-08_16-12-37_Trim__2__SparkVideo.gif" align="center" height="500" width="500" ></a>
 
 
 
