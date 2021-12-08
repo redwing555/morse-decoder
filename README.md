@@ -2,21 +2,16 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> This algorithm using Ruby decode morse messages, its very fun you should try it ! 
 
-![screenshot](./app_screenshot.png)
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Git , Git Actions, RuboCop 
 
 
 ## Getting Started
@@ -43,17 +38,15 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ntazama Willy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ntzwilly](https://github.com/ntzwilly)
+- LinkedIn: [@ntazamawilly](https://linkedin.com/in/ntazama-willy-b676b7aa)
 
-👤 **Author2**
+👤 **Houssam HICHAMI**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@redwing555](https://github.com/redwing555)
+- LinkedIn: [Houssam HICHAMI](https://linkedin.com/in/houssam-hichami)
 
 ## 🤝 Contributing
 
