@@ -31,19 +31,20 @@ def decode_char(str)
   @morse_dict[str].upcase
 end
 
-puts decode_char('...-')
+
 
 def decode_word(word)
   letters = word.split.map { |str| decode_char(str) }
   letters.join
 end
 
-puts decode_word('-- -.--   -. .- -- .')
 
 def decode_message(message)
   words = message.split('   ').map { |word| decode_word(word) }
   words.join(' ')
 end
 
-puts decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+puts "Enter a valid morse message : "
+message = gets.chomp
+puts "this morse message translates to  #{decode_message(message)}"
 # A BOX FULL OF RUBIES
