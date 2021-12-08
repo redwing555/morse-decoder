@@ -1,59 +1,61 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Morse Decoder
 
-> One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+
+> This algorithm using Ruby decode morse messages, its very fun you should try it ! 
+
+![screenshot](./Animation.gif)
+
+
+
+
+
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Git , Git Actions, RuboCop 
 
 
-## Getting Started
+## Get started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+ Clone this repository to your local machine by runing these comand on your local terminal
+```
+git clone https://github.com/redwing555/morse-decoder.git
+cd morse-decoder
+git checkout dev
+code . 
+```
 
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Setup
 
-### Setup
+* Change directory to the project directory `` cd morse-decoder ``
+* Install the gems by runing the command line `` bundle install ``
+* In the terminal run `` ruby ./morse.rb ``
+* If you chose to export the outputs , you will find the csv and txt files in the project repository
 
-### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ntazama Willy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ntzwilly](https://github.com/ntzwilly)
+- LinkedIn: [@ntazamawilly](https://linkedin.com/in/ntazama-willy-b676b7aa)
 
-👤 **Author2**
+👤 **Houssam HICHAMI**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@redwing555](https://github.com/redwing555)
+- LinkedIn: [Houssam HICHAMI](https://linkedin.com/in/houssam-hichami)
 
 ## 🤝 Contributing
 
