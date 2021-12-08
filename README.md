@@ -6,7 +6,7 @@
 
 > This algorithm using Ruby decode morse messages, its very fun you should try it ! 
 
-![screenshot](./animation.gif)
+![screenshot](./Animation.gif)
 
 
 
