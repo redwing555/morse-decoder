@@ -40,6 +40,15 @@ end
 
 puts decode_word("-- -.--   -. .- -- .")
 
+def decode_message(message)
+    words = message.split('   ').map {|word| decode_word(word)}
+    words.join(' ')
+
+end
+
+puts decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+# A BOX FULL OF RUBIES
+
 
 
     
